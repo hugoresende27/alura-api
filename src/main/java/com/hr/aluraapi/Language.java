@@ -22,6 +22,10 @@ public class Language {
         this.ranking = ranking;
     }
 
+    public void setId(String id) {
+        this.id = id;
+    }
+
     public String getId() {
         return id;
     }
