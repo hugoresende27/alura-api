@@ -25,7 +25,7 @@ public class AluraController {
 
     @GetMapping(value = "/")
     public String index() {
-        return "Hello Java !!!";
+        return "Hello Java !!!!!!";
     }
 
     @GetMapping(value = "/languages")
